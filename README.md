@@ -17,5 +17,5 @@ https://ffmpeg.org/download.html
 <h3>ffmpeg</h3>
 <p>install ffmpeg and check with <code>https://ffmpeg.org/download.html</code> command to convert audio and video format</p>
 <p>If you type the command in powershell it will look like this<p>
-<img src="https://raw.githubusercontent.com/hasan1423/youtube-audio-video-converter/main/ffmpeg.png?token=GHSAT0AAAAAAB6YH4CUN5TXPYNYNAZGUSY6Y7QPKTQ">
+<img src="https://github.com/hasan1423/youtube-audio-video-converter/blob/main/ffmpeg.png">
 
