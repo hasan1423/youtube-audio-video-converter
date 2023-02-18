@@ -9,7 +9,7 @@ Offers Audio/Video options, creates and saves a file named downloads when user m
 
 <h2>How to install</h2>
 <pre>
-pip install pytube  or git clone git://github.com/pytube/pytube.git
+pip install pytube 
 pip install os-sys
 https://ffmpeg.org/download.html
 </pre>
